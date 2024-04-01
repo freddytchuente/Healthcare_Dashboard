@@ -1,5 +1,6 @@
 # Healthcare_Dashboard
 Project: Healthcare Data – Patient Wait list 
+
 Keywords:
 Inpatient: a patient who stay in a hospital while under treatment
 Outpatient: a patient who receives medical treatment without being admitted to hospital
